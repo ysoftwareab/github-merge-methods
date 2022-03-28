@@ -1,0 +1,55 @@
+* commit e06b3d5217d5906622c7c5c00c153d9ca844017e
+| Author:     Andrei Neculau <andrei.neculau@gmail.com>
+| AuthorDate: 2022-03-28 22:37:20 +0200
+| Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+| CommitDate: 2022-03-28 22:43:42 +0200
+| 
+|     updated rebaseff.2
+| 
+* commit cae750e8b1d72beab6afd1f795141a6ffadcd42a
+| Author:     Andrei Neculau <andrei.neculau@gmail.com>
+| AuthorDate: 2022-03-28 22:37:20 +0200
+| Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+| CommitDate: 2022-03-28 22:43:42 +0200
+| 
+|     updated rebaseff
+| 
+* commit 860036bc2acc1bbe05fb2123d142a3a24f2f3ecb
+| Author:     Andrei Neculau <andrei.neculau@gmail.com>
+| AuthorDate: 2022-03-28 21:31:07 +0200
+| Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+| CommitDate: 2022-03-28 21:35:09 +0200
+| 
+|     updated bar foo
+| 
+* commit 464b7102a0690da781ea7f3f139b7a0d097ba1ce
+| Author:     Andrei Neculau <andrei.neculau@gmail.com>
+| AuthorDate: 2022-03-28 21:30:37 +0200
+| Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+| CommitDate: 2022-03-28 21:35:09 +0200
+| 
+|     updated bar
+| 
+* commit 42d9c2ead93e22487af6903be0c7dd74e93ad651
+| Author:     Andrei Neculau <andrei.neculau@gmail.com>
+| AuthorDate: 2022-03-28 21:30:27 +0200
+| Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+| CommitDate: 2022-03-28 21:35:08 +0200
+| 
+|     updated foo
+| 
+* commit bc7cc81bf19c2dd4fbda85d12ad1579ca79e77ab
+| Author:     Andrei Neculau <andrei.neculau@gmail.com>
+| AuthorDate: 2022-03-28 21:34:40 +0200
+| Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+| CommitDate: 2022-03-28 21:35:08 +0200
+| 
+|     updated README.md
+| 
+* commit c03e9f0f90337c51fe5b74aed6c54d10b626aa6a
+  Author:     Andrei Neculau <andrei.neculau@gmail.com>
+  AuthorDate: 2022-03-28 21:30:16 +0200
+  Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+  CommitDate: 2022-03-28 21:30:16 +0200
+  
+      [empty] initial commit

@@ -1,0 +1,31 @@
+* commit e7aa9d9a8712f954fbbeb98885d8c5e243bb4b96
+| Author:     Andrei Neculau <andrei.neculau@gmail.com>
+| AuthorDate: 2022-03-28 22:47:38 +0200
+| Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+| CommitDate: 2022-03-28 22:47:38 +0200
+| 
+|     updated squash.2
+| 
+* commit 7f5441e3e7b9443b870ec9b60b81e55c67c79edb
+| Author:     Andrei Neculau <andrei.neculau@gmail.com>
+| AuthorDate: 2022-03-28 22:47:37 +0200
+| Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+| CommitDate: 2022-03-28 22:47:37 +0200
+| 
+|     updated squash
+| 
+* commit bc7cc81bf19c2dd4fbda85d12ad1579ca79e77ab
+| Author:     Andrei Neculau <andrei.neculau@gmail.com>
+| AuthorDate: 2022-03-28 21:34:40 +0200
+| Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+| CommitDate: 2022-03-28 21:35:08 +0200
+| 
+|     updated README.md
+| 
+* commit c03e9f0f90337c51fe5b74aed6c54d10b626aa6a
+  Author:     Andrei Neculau <andrei.neculau@gmail.com>
+  AuthorDate: 2022-03-28 21:30:16 +0200
+  Commit:     Andrei Neculau <andrei.neculau@gmail.com>
+  CommitDate: 2022-03-28 21:30:16 +0200
+  
+      [empty] initial commit
